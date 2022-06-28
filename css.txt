@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>R-IT : Home</title>
+	
+	<script src="https://kit.fontawesome.com/ee3c098242.js" crossorigin="anonymous"></script>
+	<link href="first.css" type="text/css" rel="stylesheet" />
+</head>
+	<body>
+		<header id="topbar">
+		<div class="topbarmin">
+			<div class="container">
+				<div class="topBarWrapper">
+				<div class="phone">
+					<i class="fas fa-phone"></i>phone:+8801771740938
+				</div>
+				<div class="email">
+					<i class="fas fa-envelope"></i>Email:scihub53@gmail.com
+				</div>
+				<div class="social">
+					<a href="#"><i class="fas fa-facebook"></i></a>
+					<a href="#"><i class="fas fa-twitter"></i></a>
+					<a href="#"><i class="fas fa-linkedin"></i></a>
+				</div>
+				</div>
+				
+			</div
+		</div>
+		<div class="primaryMenu">
+			<div class="container">
+				<div class="primaryWrapper">
+				
+				<div class="logo">
+					<img src="image/r-it.jpg"/>
+				</div>
+				<div class="menu">
+				
+					<ul class="mainMenuItem">
+						<li><a href="#"><i class="fa fa-caret-down"aria-hidden="true">Home</a></li>
+						<li><a href="#">pages<i class="fa fa-caret-down"aria-hidden="true"></i></a>
+						<ul class="subMenu">
+							<li><a href="#">About Company</a></li>
+							<li><a href="#">Testimonial</a></li>
+							<li><a href="#">FAQ's    </a></li>
+							<li><a href="#">404 page</a></li>
+							<li><a href="#">Teams   </a></li>
+							<li><a href="#">Typograhy</a></li>
+							<li><a href="#">Form   </a></li>
+							<li><a href="#">Progress Bar</a></li>
+							<li><a href="#">Privacy Policy</a></li>
+							<li><a href="#">Search    </a></li>
+							<li><a href="#">Button   </a></li>
+							<li><a href="#">Tab   </a></li>
+							<li><a href="#">Table    </a></li>
+							<li><a href="#">Accordation And Toggle</a></li>
+							<li><a href="#">Counter And Countdown</a></li>
+						</ul>
+						</li>
+						<li><a href="#">services<i class="fa fa-caret-down"aria-hidden="true"></a>
+							<ul class="subMenu">
+							<li><a href="#">About Company</a></li>
+							<li><a href="#">Testimonial</a></li>
+							<li><a href="#">FAQ's    </a></li>
+							<li><a href="#">404 page</a></li>
+							<li><a href="#">Teams   </a></li>
+							<li><a href="#">Typograhy</a></li>
+							<li><a href="#">Form   </a>
+								<ul class="subMenu2">
+							<li><a href="#">About Company</a></li>
+							<li><a href="#">Testimonial</a></li>
+							<li><a href="#">FAQ's    </a></li>
+							<li><a href="#">404 page</a></li>
+							<li><a href="#">Teams   </a></li>
+							<li><a href="#">Typograhy</a></li>
+							<li><a href="#">Form   </a></li>
+							<li><a href="#">Progress Bar</a></li>
+							<li><a href="#">Privacy Policy</a></li>
+							<li><a href="#">Search    </a></li>
+							<li><a href="#">Button   </a></li>
+							<li><a href="#">Tab   </a></li>
+							<li><a href="#">Table    </a></li>
+							<li><a href="#">Accordation And Toggle</a></li>
+							<li><a href="#">Counter And Countdown</a></li>
+						</ul>
+							
+							</li>
+							<li><a href="#">Progress Bar</a></li>
+							<li><a href="#">Privacy Policy</a></li>
+							<li><a href="#">Search    </a></li>
+							<li><a href="#">Button   </a></li>
+							<li><a href="#">Tab   </a></li>
+							<li><a href="#">Table    </a></li>
+							<li><a href="#">Accordation And Toggle</a></li>
+							<li><a href="#">Counter And Countdown</a></li>
+						</ul>
+						</li>
+						<li><a href="#">projects<i class="fa fa-caret-down" aria-hidden="true"></a>
+						</li>
+						<li><a href="#">Blog<i class="fa fa-caret-down" aria-hidden="true"></a></li>
+						<li><a href="#">Contact<i class="fa fa-caret-down" aria-hidden="true"></a></li>
+						<li id="searchBtn"><a href="#">Search<i class="fas fa-search"></i></a></li>
+					
+					
+					</ul>
+				
+				
+				
+				</div>
+				
+				</div>
+			
+			</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+line no:228
+.singleBox:hover h2, i{
+	
+	color:white !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.ideasleftImg{background:url(image/civil2.png);
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-position:center center;
+
+
+
+}
+.section#ideas{
+	
+	overflow:hidden;
+	padding:40px 0px;
+	height:475px;
+	z-index:3px;
+	
+	
+}
+.ideasleftImg{
+	width:50%;
+	float:left;
+	top:0;
+	left:0;
+	margin-top:-50px;
+	height:475px;
+    overflow:hidden;
+	z-index:0px;
+	
+}
+.rightContent{
+	
+	width:50%;
+	float:right;
+	overflow:hidden;
+	background:#222222;
+	color:white;
+	height:475px;
+	margin-top:-50px;
+	
+	
+}
+.rContentTitle{
+	
+	padding:70px;
+	padding-bottom:0;
+	margin-bottom:40px;
+}
+.rContentTitle h1{
+	
+	font-size:35px;
+	margin-bottom:15px;
+	
+}
+.rContentIcons{
+	padding:0px 70px;
+	overflow:hidden;
+	padding-bottom:70px;
+	margin-bottom:50px;
+	
+}
+.riconSingle{
+	
+	width:400px;
+	float:left;
+	overflow:hidden;
+	margin-bottom:45px;
+	
+	
+}
+.rIcon{
+	
+	width:70px;
+	overflow:hidden;
+	float:left;
+	font-size:50px;
+	color:#fb5200;
+}
+.riconTitle{
+	
+	width:300px;
+	overflow:hidden;
+	float:right;
+	
+}
+.riconTitle h2{
+	
+	font-size:20px;
+	margin-bottom:10px;
+	
+	cursor:pointer;
+	
+}
+.riconTitle h2:hover{
+	
+	color:#fb5200;
+	
+}
+.riconTitle p{
+	
+	

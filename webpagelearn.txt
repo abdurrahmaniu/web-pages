@@ -1,0 +1,22 @@
+animate.style visit
+
+1..container{
+	width:1140px;
+	padding-right: 15px;
+	border: 1px solid black;
+	padding-left: 15px;
+	margin:auto;
+	
+	
+}
+2..sboxTitle h2{
+	font-size:20px;
+	letter-spacing:-1.1px;
+	color:#333;
+	line-height:28px;
+	text-transform:uppercase;
+	margin:30px 0px;
+}
+3..singleBox:hover .sboxLink a{
+	color:white;
+}

@@ -1,0 +1,87 @@
+<section id="ideas">
+				<div class="ideasleftImg"></div>
+			<div class="rightContent">
+				<div class="rContentTitle">
+					<h1>CHEAK OUT OUR LATEST IDEA</h1>
+					<p>I am worn to you not to take medicine for get child.because it is not good way for this I dislike it. 
+					I am worn to you not to take medicine   for for get child.becaus</p>
+				
+				</div>
+				<div class="rContentIcons">
+					<div class="riconSingle">
+						<div class="rIcon">
+						
+							<i class="fa fa-phone" aria-hidden="true"></i>
+						
+						</div>
+						<div class="riconTitle">
+						
+							<h2>GREATE SUPPORT</h2>
+							<p>Best Service For Customer</p>
+						
+						</div>
+					
+					</div>
+					
+					<div class="riconSingle">
+						<div class="rIcon">
+						
+							<i class="fa fa-bullhorn" aria-hidden="true"></i>
+						
+						</div>
+						<div class="riconTitle">
+						
+							<h2>WORK OUTLINE</h2>
+							<p>Best Service For Customer</p>
+						
+						</div>
+					
+					</div>
+					
+					<div class="riconSingle">
+						<div class="rIcon">
+						
+							<i class="fa fa-bar-chart" aria-hidden="true"></i>
+						
+						</div>
+						<div class="riconTitle">
+						
+							<h2>CERTIFIED QUALITIES</h2>
+							<p>Best Service For Customer</p>
+						
+						</div>
+					
+					</div>
+					
+					<div class="riconSingle">
+						<div class="rIcon">
+						
+							<i class="fa fa-clock-o" aria-hidden="true"></i>
+						
+						</div>
+						<div class="riconTitle">
+						
+							<h2>BEST BRANDING</h2>
+							<p>Best Service For Customer</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section><br/>
+		<section id="ourTeams">
+			<div class="container">
+				<div class="secTitle">
+					<h2>MEET OUR TEAMS</h2>
+					<p>I am worn to you not to take medicine for get child.because it is not good way for this I dislike it. 
+					I am worn to you not to take medicine   for for get child.becaus</p>
+				</div>
+			
+			
+			</div>
+		
+		
+		
+		
+		
+		</section>
+		
